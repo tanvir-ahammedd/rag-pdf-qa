@@ -2,10 +2,13 @@ streamlit
 langchain
 langchain-groq
 langchain-community
-langchain-core
-langchain-classic
-sentence-transformers
 faiss-cpu
+sentence-transformers
 pypdf
 python-dotenv
-huggingface-hub
+
+# OCR dependencies
+pytesseract
+pdf2image
+PyMuPDF
+Pillow
